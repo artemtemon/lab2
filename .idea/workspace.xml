@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b2cc51b-919e-44ee-99ab-85d8c6451889" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PythonProject2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab2.0.ipynb" beforeDir="false" />
